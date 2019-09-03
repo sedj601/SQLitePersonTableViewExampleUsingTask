@@ -57,7 +57,6 @@ public class PrimaryController implements Initializable
                     lblLastAction.setText(person.getFirstName() + " added!");
                 });
                 getLastIdFromPersonTableService.start();
-
             }
             else {
                 lblLastAction.setText(person.getFirstName() + " failed to add!");
