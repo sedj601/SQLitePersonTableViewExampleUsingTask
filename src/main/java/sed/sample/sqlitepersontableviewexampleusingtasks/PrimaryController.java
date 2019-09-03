@@ -38,8 +38,6 @@ public class PrimaryController implements Initializable
     private MaskerPane mpTableView;
     @FXML
     private Button btnAddPerson, btnDeletePerson;
-//    @FXML
-//    private FontAwesomeIconView faivAddPerson, faivDeletePerson;
 
     DBHandler dBHandler;
 
