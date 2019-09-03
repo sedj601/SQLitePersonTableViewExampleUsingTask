@@ -1,6 +1,5 @@
 package sed.sample.sqlitepersontableviewexampleusingtasks;
 
-import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView;
 import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
@@ -19,7 +18,6 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
 import org.controlsfx.control.MaskerPane;
-import org.controlsfx.glyphfont.FontAwesome;
 
 public class PrimaryController implements Initializable
 {
